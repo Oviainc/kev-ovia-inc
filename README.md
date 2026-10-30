@@ -1,3 +1,5 @@
+> **Ovia Inc fork** — We maintain this fork of [jaredpalmer/kev](https://github.com/jaredpalmer/kev), a tiny family of Jev-like decision models built on Qwen3.5 that can be trained and run locally. Small, ownable decision models are a core interest in our context engineering work — deciding should not always mean generating. Upstream credit: Jared Palmer and contributors. License: Apache-2.0 (see LICENSE). The upstream project is documented below.
+
 # Kev
 
 Small Jev-like decision models you can train and run yourself.
